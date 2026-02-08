@@ -65,10 +65,10 @@ serve como base histórica para análises posteriores.
 Coluna principal: - **BANCOS** --- lista padronizada de instituições
 financeiras.
 
-Exemplos presentes no seu arquivo: - 1 - Banco do Brasil\
-- 102 - XP Investimentos CCTVM S.A.\
-- 104 - Caixa Econômica Federal\
-- 119 - Banco Western Union do Brasil\
+Exemplos presentes no seu arquivo: - 1 - Banco do Brasil
+- 102 - XP Investimentos CCTVM S.A.
+- 104 - Caixa Econômica Federal
+- 119 - Banco Western Union do Brasil
 - 184 - Banco Itaú BBA S.A.
 
 👉 Essa aba pode ser usada para validação de dados (listas suspensas)
@@ -82,16 +82,16 @@ nas demais abas.
 
 Você decidiu criar um controle financeiro centrado em: - Dados do
 titular\
-- Informes bancários\
-- Extratos/notas mensais\
+- Informes bancários
+- Extratos/notas mensais
 - Tabelas de apoio padronizadas
 
 ### **Passo 2 --- Criação das abas principais**
 
 Você estruturou o arquivo em quatro abas: 1. **TITULAR** → Dados
-pessoais\
-2. **INFORMES** → Rendimentos bancários\
-3. **NOTAS** → Movimentações mensais\
+pessoais
+2. **INFORMES** → Rendimentos bancários
+3. **NOTAS** → Movimentações mensais
 4. **TABELAS** → Listas padronizadas (bancos)
 
 ### **Passo 3 --- Padronização com tabelas auxiliares**
@@ -101,18 +101,18 @@ nomes de bancos nas demais abas.
 
 ### **Passo 4 --- Organização por finalidade**
 
-Cada aba tem um propósito claro: - Cadastro → TITULAR\
-- Rendimentos → INFORMES\
-- Histórico mensal → NOTAS\
+Cada aba tem um propósito claro: - Cadastro → TITULAR
+- Rendimentos → INFORMES
+- Histórico mensal → NOTAS
 - Padronização → TABELAS
 
 ------------------------------------------------------------------------
 
 ## ✅ Como usar no dia a dia
 
-1.  **Atualize seus dados pessoais** em **TITULAR** quando necessário.\
-2.  **Preencha INFORMES** ao receber informes anuais dos bancos.\
-3.  **Lance mensalmente suas notas/extratos** em **NOTAS**.\
+1.  **Atualize seus dados pessoais** em **TITULAR** quando necessário.
+2.  **Preencha INFORMES** ao receber informes anuais dos bancos.
+3.  **Lance mensalmente suas notas/extratos** em **NOTAS**.
 4.  Use a aba **TABELAS** como referência para nomes de bancos.
 
 ------------------------------------------------------------------------
@@ -120,7 +120,7 @@ Cada aba tem um propósito claro: - Cadastro → TITULAR\
 ## 🚀 Próximos passos (sugestões de melhoria)
 
 Em breve, vou evoluir essa planilha para: - Cálculo automático
-de imposto de renda\
-- Dashboard gráfico no Excel ou Power BI\
-- Importação automática de PDFs de extratos\
+de imposto de renda
+- Dashboard gráfico no Excel ou Power BI
+- Importação automática de PDFs de extratos
 - Integração com notas de corretagem
